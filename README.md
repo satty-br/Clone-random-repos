@@ -26,7 +26,7 @@ pip install -r requirements.txt
 Run the script with desired arguments:
 
 ´´´´
-python main.py --org orgname --num_repos 10 --content_type python --complexity medium
+python main.py --org orgname --num_repos 10 --content_type python
 ´´´´
 
 Use o código com cuidado.
