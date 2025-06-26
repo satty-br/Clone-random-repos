@@ -10,24 +10,24 @@ Flexible Use Case: Serves as a PoC for security analysis tools, CI/CD pipelines,
 
 ## Installation
 Clone this repository:
-´´´´
+```
 git clone https://github.com/satty-br/Clone-random-repos.git
-´´´´´
+```
 
 ### Install required libraries:
 
-´´´´
+```
 cd clone-random-repos
 pip install -r requirements.txt
-´´´´´
+```
 
 ## Usage
 
 Run the script with desired arguments:
 
-´´´´
+```
 python main.py --org orgname --num_repos 10 --content_type python
-´´´´
+```
 
 Use o código com cuidado.
 content_copy
